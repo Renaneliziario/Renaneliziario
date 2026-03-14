@@ -32,19 +32,20 @@ Foco em escrever código limpo, testável e escalável, utilizando as melhores p
 *   Mapeamento ORM complexo (`@OneToMany`, `@ManyToOne`) e precisão financeira com `BigDecimal`.
 *   Suíte de testes robusta com **JUnit** e banco **H2** em memória.
 
+### [SalesSystem-JDBC](https://github.com/Renaneliziario/SalesSystem-JDBC)
+**Integração Nativa com Banco de Dados e SQL ANSI**
+*   Domínio sobre a camada de persistência nativa (JDBC) e gerenciamento manual de transações.
+*   Escrita de queries SQL complexas para operações de CRUD, garantindo performance e controle total.
+
 ### [QualityGuard-UnitTests](https://github.com/Renaneliziario/QualityGuard-UnitTests)
 **Suíte de Testes e Validações de Regras de Negócio**
 *   Foco em **Engenharia de Qualidade** utilizando **JUnit** e **Mockito** para isolamento de lógica.
 *   Uso de **Custom Annotations** e **Reflection API** para validações dinâmicas de atributos.
 
----
-
-## 📈 Trajetória e Evolução
-Minha formação técnica seguiu uma linha evolutiva clara, garantindo que eu entenda o que acontece "sob o capô":
-1.  **Fundamentos:** Construção de interfaces e lógica POO com [UserControl-Desktop](https://github.com/Renaneliziario/UserControl-Desktop).
-2.  **Persistência Nativa:** Domínio de SQL e transações manuais com [SalesSystem-JDBC](https://github.com/Renaneliziario/SalesSystem-JDBC).
-3.  **Frameworks Industriais:** Especialização em ORM e regras de negócio com JPA/Hibernate.
-4.  **Sistemas Distribuídos:** Exploração de escalabilidade e desacoplamento com Microserviços.
+### [UserControl-Desktop](https://github.com/Renaneliziario/UserControl-Desktop)
+**Gerenciador de Usuários com Java Swing e Arquitetura MVC**
+*   Fundamentos de **POO** e construção de interfaces gráficas baseadas em eventos.
+*   Implementação do padrão **MVC** para separação de lógica de interface e dados.
 
 ---
 
