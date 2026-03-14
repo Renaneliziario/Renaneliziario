@@ -10,42 +10,42 @@ Foco em escrever código limpo, testável e escalável, utilizando as melhores p
 
 ## 🛠️ Core Expertise & Tech Stack
 
-*   **Linguagens:** Java 8/11/17 (LTS), SQL (ANSI), Python.
-*   **Frameworks:** Spring Boot 3.x, Spring Cloud, JPA / Hibernate, Spring Data, JUnit 4/5, Mockito.
+*   **Linguagens:** Java 8/11/17 (LTS), SQL, Python
+*   **Frameworks:** Spring Boot 3.x, Spring Cloud, JPA / Hibernate, Spring Data, JUnit 4/5.
 *   **Arquitetura:** Microserviços, RESTful APIs, MVC, Padrão DAO, Injeção de Dependência.
 *   **Bancos de Dados:** PostgreSQL, MySQL, MongoDB (NoSQL), H2 Database.
-*   **DevOps & Ferramentas:** Docker, Docker Compose, Maven, Git/GitHub, Linux (Debian), Postman.
+*   **DevOps & Ferramentas:** Docker, Docker Compose, Maven, Git/GitHub, Linux
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque (Ordem de Evolução)
 
-### [Sales-Microservices](https://github.com/Renaneliziario/Sales-Microservices)
-**Estudo de Arquitetura Distribuída com Spring Boot 3.4 & NoSQL**
-*   Desenvolvimento de ecossistema de microserviços (Clientes, Produtos, Vendas) com **Spring Cloud Config**.
-*   Persistência escalável com **MongoDB** e documentação automatizada com **Swagger/OpenAPI**.
-*   Uso de **Docker** para orquestração de ambiente de desenvolvimento local.
+### 1. [UserControl-Desktop](https://github.com/Renaneliziario/UserControl-Desktop)
+**Gerenciador de Usuários com Java Swing e Arquitetura MVC**
+*   Fundamentos de **POO** e construção de interfaces gráficas baseadas em eventos.
+*   Implementação do padrão **MVC** para separação de lógica de interface e dados.
 
-### [SalesPersistence-JPA](https://github.com/Renaneliziario/SalesPersistence-JPA)
+### 2. [QualityGuard-UnitTests](https://github.com/Renaneliziario/QualityGuard-UnitTests)
+**Suíte de Testes e Validações de Regras de Negócio**
+*   Foco em **Engenharia de Qualidade** utilizando **JUnit** e **Mockito** para isolamento de lógica.
+*   Uso de **Custom Annotations** e **Reflection API** para validações dinâmicas de atributos.
+
+### 3. [SalesSystem-JDBC](https://github.com/Renaneliziario/SalesSystem-JDBC)
+**Integração Nativa com Banco de Dados e SQL ANSI**
+*   Domínio sobre a camada de persistência nativa (JDBC) e gerenciamento manual de transações.
+*   Escrita de queries SQL complexas para operações de CRUD, garantindo performance e controle total.
+
+### 4. [SalesPersistence-JPA](https://github.com/Renaneliziario/SalesPersistence-JPA)
 **Sistema de Gestão de Vendas com Hibernate e Padrão DAO**
 *   Implementação de **Arquitetura em Camadas (N-Tier)** e **Generic DAO** com Java Generics.
 *   Mapeamento ORM complexo (`@OneToMany`, `@ManyToOne`) e precisão financeira com `BigDecimal`.
 *   Suíte de testes robusta com **JUnit** e banco **H2** em memória.
 
-### [SalesSystem-JDBC](https://github.com/Renaneliziario/SalesSystem-JDBC)
-**Integração Nativa com Banco de Dados e SQL ANSI**
-*   Domínio sobre a camada de persistência nativa (JDBC) e gerenciamento manual de transações.
-*   Escrita de queries SQL complexas para operações de CRUD, garantindo performance e controle total.
-
-### [QualityGuard-UnitTests](https://github.com/Renaneliziario/QualityGuard-UnitTests)
-**Suíte de Testes e Validações de Regras de Negócio**
-*   Foco em **Engenharia de Qualidade** utilizando **JUnit** e **Mockito** para isolamento de lógica.
-*   Uso de **Custom Annotations** e **Reflection API** para validações dinâmicas de atributos.
-
-### [UserControl-Desktop](https://github.com/Renaneliziario/UserControl-Desktop)
-**Gerenciador de Usuários com Java Swing e Arquitetura MVC**
-*   Fundamentos de **POO** e construção de interfaces gráficas baseadas em eventos.
-*   Implementação do padrão **MVC** para separação de lógica de interface e dados.
+### 5. [Sales-Microservices](https://github.com/Renaneliziario/Sales-Microservices)
+**Estudo de Arquitetura Distribuída com Spring Boot 3.4 & NoSQL**
+*   Desenvolvimento de ecossistema de microserviços (Clientes, Produtos, Vendas) com **Spring Cloud Config**.
+*   Persistência escalável com **MongoDB** e documentação automatizada com **Swagger/OpenAPI**.
+*   Uso de **Docker** para orquestração de ambiente de desenvolvimento local.
 
 ---
 
@@ -56,4 +56,4 @@ Foco em escrever código limpo, testável e escalável, utilizando as melhores p
 *   **Email:** renanqueiroz92@gmail.com
 
 ---
-*“Em constante evolução, transformando lógica em soluções eficientes e resilientes.”*
+*“Transformando fundamentos sólidos em arquiteturas modernas e eficientes.”*
