@@ -2,7 +2,7 @@
 
 **Desenvolvedor Back-End Java | Spring Boot | Microserviços | SQL & NoSQL | Docker**
 
-Sou um desenvolvedor em transição de carreira, graduado em **Análise e Desenvolvimento de Sistemas** e atualmente me especializando em **Back-End Java** (EBAC). Minha trajetória é marcada pela evolução constante: dos fundamentos da Orientação a Objetos e interfaces Swing até a complexidade de arquiteturas distribuídas e ecossistemas Cloud Native.
+Sou um desenvolvedor em transição de carreira, graduado em **Análise e Desenvolvimento de Sistemas** e atualmente me especializando em **Back-End Java** (EBAC). Minha trajetória é marcada pela evolução constante: dos fundamentos da Orientação a Objetos e interfaces Swing até a complexidade de arquiteturas distribuídas e ecossistemas de microserviços.
 
 Foco em escrever código limpo, testável e escalável, utilizando as melhores práticas de mercado como **SOLID, Design Patterns e Clean Code**.
 
@@ -11,10 +11,10 @@ Foco em escrever código limpo, testável e escalável, utilizando as melhores p
 ## 🛠️ Core Expertise & Tech Stack
 
 *   **Linguagens:** Java 8/11/17 (LTS), SQL, Python
-*   **Frameworks:** Spring Boot 3.x, Spring Cloud, JPA / Hibernate, Spring Data, JUnit 4/5.
+*   **Frameworks:** Spring Boot 3.x, Spring Cloud, JPA / Hibernate, Spring Data, JUnit 4/5, Mockito
 *   **Arquitetura:** Microserviços, RESTful APIs, MVC, Padrão DAO, Injeção de Dependência.
 *   **Bancos de Dados:** PostgreSQL, MySQL, MongoDB (NoSQL), H2 Database.
-*   **DevOps & Ferramentas:** Docker, Docker Compose, Maven, Git/GitHub, Linux
+*   **DevOps & Ferramentas:** Docker, Docker Compose, Maven, Git/GitHub, Linux (Debian)
 
 ---
 
