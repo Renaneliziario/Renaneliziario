@@ -1,4 +1,4 @@
-# Olá, eu sou o Renan Eliziário 👋
+# Olá, eu sou o Renan Queiroz Eliziario 👋
 
 **Desenvolvedor Back-End Java | Spring Boot | Microserviços | SQL & NoSQL | Docker**
 
