@@ -50,7 +50,7 @@ Foco em escrever código limpo, testável e escalável, aplicando **SOLID, Desig
 - Mapeamento ORM complexo (`@OneToMany`, `@ManyToOne`) e precisão financeira com `BigDecimal`.
 - Testes com **JUnit** e banco **H2** em memória para isolamento de ambientes.
 
-### 5. [Sales-Microservices](https://github.com/Renaneliziario/Sales-Microservices) *(Em Desenvolvimento)*
+### 5. [Sales-Microservices](https://github.com/Renaneliziario/Sales-Microservices) 
 **Arquitetura Distribuída com Spring Boot 3.4 & NoSQL**
 - Ecossistema de microserviços (Clientes, Produtos, Vendas) com **Spring Cloud Config**.
 - Persistência escalável com **MongoDB** e documentação de APIs via **Swagger/OpenAPI**.
