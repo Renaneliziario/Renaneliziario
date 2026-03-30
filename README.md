@@ -1,5 +1,4 @@
 # Olá, eu sou o Renan Queiroz Eliziario 👋
-
 **Desenvolvedor Back-End Java | Spring Boot | Microserviços | SQL & NoSQL | Docker**
 
 Graduado em **Análise e Desenvolvimento de Sistemas** e me especializando em **Back-End Java** (EBAC). Minha trajetória é marcada pela evolução constante: dos fundamentos da Orientação a Objetos até arquiteturas distribuídas com microserviços — cada projeto construído com propósito e progressão técnica deliberada.
@@ -50,7 +49,7 @@ Foco em escrever código limpo, testável e escalável, aplicando **SOLID, Desig
 - Mapeamento ORM complexo (`@OneToMany`, `@ManyToOne`) e precisão financeira com `BigDecimal`.
 - Testes com **JUnit** e banco **H2** em memória para isolamento de ambientes.
 
-### 5. [Sales-Microservices](https://github.com/Renaneliziario/Sales-Microservices) 
+### 5. [Sales-Microservices](https://github.com/Renaneliziario/Sales-Microservices)
 **Arquitetura Distribuída com Spring Boot 3.4 & NoSQL**
 - Ecossistema de microserviços (Clientes, Produtos, Vendas) com **Spring Cloud Config**.
 - Persistência escalável com **MongoDB** e documentação de APIs via **Swagger/OpenAPI**.
@@ -58,11 +57,24 @@ Foco em escrever código limpo, testável e escalável, aplicando **SOLID, Desig
 
 ---
 
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renaneliziario&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renaneliziario&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Sales-Microservices](https://github-readme-stats.vercel.app/api/pin/?username=Renaneliziario&repo=Sales-Microservices&theme=dark)](https://github.com/Renaneliziario/Sales-Microservices)
+
+---
+
 ## 📫 Vamos nos conectar?
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/renaneliziario/)
 
 - **LinkedIn:** [linkedin.com/in/renaneliziario](https://www.linkedin.com/in/renaneliziario/)
 - **Localização:** Guarulhos – SP, Brasil
 - **Email:** renanqueiroz92@gmail.com
 
 ---
+
 *"Cada projeto é uma decisão técnica consciente — não apenas código que funciona, mas código que comunica."*
