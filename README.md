@@ -9,7 +9,7 @@ Foco em escrever código limpo, testável e escalável, aplicando **SOLID, Desig
 ---
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renaneliziario&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renaneliziario&repo=Renaneliziario.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
