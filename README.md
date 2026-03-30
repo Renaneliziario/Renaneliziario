@@ -7,7 +7,9 @@ Graduado em **Análise e Desenvolvimento de Sistemas** e me especializando em **
 Foco em escrever código limpo, testável e escalável, aplicando **SOLID, Design Patterns e Clean Code** no dia a dia.
 
 ---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renaneliziario&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=openjdk&logoColor=white)
