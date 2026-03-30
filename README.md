@@ -55,15 +55,6 @@ Foco em escrever código limpo, testável e escalável, aplicando **SOLID, Desig
 - Persistência escalável com **MongoDB** e documentação de APIs via **Swagger/OpenAPI**.
 - Orquestração de ambiente local com **Docker**.
  
----
- 
-## 📊 GitHub Stats
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renaneliziario&show_icons=true&theme=dark)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renaneliziario&layout=compact&theme=dark)
- 
-![Sales-Microservices](https://github-readme-stats.vercel.app/api/pin/?username=Renaneliziario&repo=Sales-Microservices&theme=dark)
  
 ---
  
