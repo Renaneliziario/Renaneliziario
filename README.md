@@ -7,16 +7,6 @@ Graduado em **Análise e Desenvolvimento de Sistemas** e me especializando em **
 Foco em escrever código limpo, testável e escalável, aplicando **SOLID, Design Patterns e Clean Code** no dia a dia.
 
 ---
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renaneliziario&repo=Renaneliziario.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renaneliziario&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 🛠️ Tech Stack
 
