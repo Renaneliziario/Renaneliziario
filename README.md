@@ -1,5 +1,5 @@
 # Olá, eu sou o Renan Queiroz Eliziario 👋
-**Desenvolvedor Back-End Java | Spring Boot | Microserviços | SQL & NoSQL | Docker**
+**Desenvolvedor Back-End Java | Spring Boot | Microserviços |PostgreSQl| SQL & NoSQL | Docker**
  
 Graduado em **Análise e Desenvolvimento de Sistemas** e me especializando em **Back-End Java** (EBAC). Minha trajetória é marcada pela evolução constante: dos fundamentos da Orientação a Objetos até arquiteturas distribuídas com microserviços — cada projeto construído com propósito e progressão técnica deliberada.
  
