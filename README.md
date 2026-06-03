@@ -87,17 +87,6 @@ Aplicação web full-stack desenvolvida como desafio técnico. Demonstra capacid
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Renan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renaneliziario&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renaneliziario&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contato
 
 - **LinkedIn:** [linkedin.com/in/renaneliziario](https://www.linkedin.com/in/renaneliziario/)
