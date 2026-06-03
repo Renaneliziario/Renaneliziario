@@ -1,71 +1,107 @@
-# Olá, eu sou o Renan Queiroz Eliziario 👋
-**Desenvolvedor Back-End Java | Spring Boot | Microserviços |PostgreSQl| SQL & NoSQL | Docker**
- 
-Graduado em **Análise e Desenvolvimento de Sistemas** e me especializando em **Back-End Java** (EBAC). Minha trajetória é marcada pela evolução constante: dos fundamentos da Orientação a Objetos até arquiteturas distribuídas com microserviços — cada projeto construído com propósito e progressão técnica deliberada.
- 
-Foco em escrever código limpo, testável e escalável, aplicando **SOLID, Design Patterns e Clean Code** no dia a dia.
- 
+# Renan Queiroz Eliziario
+
+**Desenvolvedor Back-End Java** | Spring Boot · Microsserviços · REST API · Docker
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renaneliziario/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:renanqueiroz92@gmail.com)
+![Aberto a oportunidades](https://img.shields.io/badge/Aberto%20a%20oportunidades-✔-brightgreen?style=flat)
+
 ---
- 
+
+Graduado em **Análise e Desenvolvimento de Sistemas** (Impacta, 2024) com especialização em **Back-End Java** em andamento (EBAC, conclusão 06/2026).
+
+Portfólio construído com progressão técnica deliberada: dos fundamentos de OOP e persistência com JDBC até ecossistemas de microsserviços com Spring Cloud, Docker Compose e bancos de dados isolados por serviço. Foco em código testável, APIs documentadas e ambientes reproduzíveis.
+
+---
+
 ## 🛠️ Tech Stack
- 
-![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
- 
-- **Linguagens:** Java 8/11/17 (LTS), SQL, Python
-- **Frameworks:** Spring Boot 3.x, Spring Cloud, JPA/Hibernate, Spring Data, JUnit 4/5, Mockito, Lombok
-- **Arquitetura:** Microserviços, RESTful APIs, MVC, Generic DAO, Injeção de Dependência, SOLID
-- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB (NoSQL), H2 Database
-- **DevOps & Ferramentas:** Docker, Docker Compose, Maven, Git/GitHub, Linux (Debian)
- 
+
+**Linguagens:** Java 17, SQL, Python  
+**Frameworks:** Spring Boot 3, Spring Cloud Config, JPA/Hibernate, Spring Data JPA, JUnit 4/5, Mockito, Thymeleaf, Lombok  
+**Arquitetura:** Microsserviços, REST API, MVC, Generic DAO, SOLID, Clean Code, Design Patterns, Injeção de Dependência  
+**Bancos:** PostgreSQL, MySQL, MongoDB, H2  
+**DevOps:** Docker, Docker Compose, Maven, Git, GitHub, Linux  
+
 ---
- 
-## 🚀 Projetos de Portfolio (Ordem de Evolução Técnica)
- 
-### 1. [UserControl-Desktop](https://github.com/Renaneliziario/UserControl-Desktop) *(Projeto Acadêmico)*
-**Gerenciador de Usuários com Java Swing e Arquitetura MVC**
-- Fundamentos de **POO** e construção de interfaces gráficas baseadas em eventos.
-- Implementação do padrão **MVC** para separação de lógica de interface e dados.
- 
-### 2. [QualityGuard-UnitTests](https://github.com/Renaneliziario/QualityGuard-UnitTests) *(Projeto Acadêmico)*
-**Suíte de Testes e Validações de Regras de Negócio**
-- Foco em **Engenharia de Qualidade** utilizando **JUnit** e **Mockito** para isolamento de lógica.
-- Uso de **Custom Annotations** e **Reflection API** para validações dinâmicas de atributos.
- 
-### 3. [SalesSystem-JDBC](https://github.com/Renaneliziario/SalesSystem-JDBC) *(Projeto Acadêmico)*
-**Integração Nativa com Banco de Dados e SQL ANSI**
-- Domínio sobre a camada de persistência nativa (JDBC) e gerenciamento manual de transações.
-- Proteção contra SQL Injection via PreparedStatement em todas as operações de banco de dados.
- 
-### 4. [SalesPersistence-JPA](https://github.com/Renaneliziario/SalesPersistence-JPA) *(Projeto Acadêmico)*
-**Sistema de Gestão de Vendas com Hibernate e Padrão DAO**
-- Implementação de **Arquitetura em Camadas (N-Tier)** e **Generic DAO** com Java Generics.
-- Mapeamento ORM complexo (`@OneToMany`, `@ManyToOne`) e precisão financeira com `BigDecimal`.
-- Testes com **JUnit** e banco **H2** em memória para isolamento de ambientes.
- 
-### 5. [Sales-Microservices](https://github.com/Renaneliziario/Sales-Microservices)
-**Arquitetura Distribuída com Spring Boot 3.4 & NoSQL**
-- Ecossistema de microserviços (Clientes, Produtos, Vendas) com **Spring Cloud Config**.
-- Persistência escalável com **MongoDB** e documentação de APIs via **Swagger/OpenAPI**.
-- Orquestração de ambiente local com **Docker**.
- 
- 
+
+## 🚀 Projetos em Destaque
+
+### ☁️ [Sales-Microservices](https://github.com/Renaneliziario/Sales-Microservices)
+**Ecossistema de Microsserviços de E-Commerce — Spring Boot 3.4 · Spring Cloud · Docker Compose**
+
+O projeto mais completo do portfólio. Arquitetura distribuída com 4 serviços independentes (Config Server, Cliente, Produto, Vendas), cada um com banco de dados PostgreSQL isolado.
+
+- Spring Cloud Config Server centralizando configurações dos 3 serviços dependentes
+- Fluxo completo de venda com baixa automática de estoque e validação de disponibilidade
+- APIs REST documentadas via Swagger/OpenAPI
+- Ambiente local orquestrado com Docker Compose respeitando ordem de inicialização por dependência
+
 ---
- 
-## 📫 Vamos nos conectar?
- 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/renaneliziario/)
- 
+
+### 🏆 [desafio-programador-duxus](https://github.com/Renaneliziario/desafio-programador-duxus)
+**Desafio Técnico Real — Spring Boot 3.2 · Thymeleaf · JUnit 5 · Docker**
+
+Aplicação web full-stack desenvolvida como desafio técnico. Demonstra capacidade de entrega em contexto real com cobertura de testes completa.
+
+- Interface web com Thymeleaf + REST API documentada via Swagger no mesmo projeto
+- 3 entidades relacionais (Integrante, Time, Composição) com mapeamento JPA e controle transacional
+- Java Records como DTOs para imutabilidade na camada de API
+- Suíte de testes com JUnit 5 parametrizado e MockMvc; perfil H2 permite execução sem Docker
+
+---
+
+### 🏛️ [SalesPersistence-JPA](https://github.com/Renaneliziario/SalesPersistence-JPA)
+**Arquitetura em Camadas · Generic DAO · JPA/Hibernate · H2**
+
+- Padrão Generic DAO com Java Generics centralizando operações de persistência
+- Mapeamentos ORM avançados (`@OneToMany`, `@ManyToOne`) e precisão financeira com `BigDecimal`
+- Testes de integração com banco H2 em memória
+
+---
+
+### 🛡️ [QualityGuard-UnitTests](https://github.com/Renaneliziario/QualityGuard-UnitTests)
+**Engenharia de Qualidade · JUnit 4/5 · Mockito · Reflection API**
+
+- Suíte completa com testes unitários e de integração
+- Mockito para isolamento de camadas e anotações personalizadas via Reflection API
+
+---
+
+### 🛢️ [SalesSystem-JDBC](https://github.com/Renaneliziario/SalesSystem-JDBC)
+**Persistência Nativa · JDBC · PostgreSQL · Controle Transacional**
+
+- Integração direta com PostgreSQL via JDBC puro e gerenciamento manual de transações
+- Proteção contra SQL Injection com PreparedStatement em todas as operações
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Renan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renaneliziario&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renaneliziario&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Contato
+
 - **LinkedIn:** [linkedin.com/in/renaneliziario](https://www.linkedin.com/in/renaneliziario/)
-- **Localização:** Guarulhos – SP, Brasil
 - **Email:** renanqueiroz92@gmail.com
- 
----
- 
-*"Cada projeto é uma decisão técnica consciente — não apenas código que funciona, mas código que comunica."*
+- **Localização:** São Paulo, SP — Brasil
+
+> *"Cada projeto é uma decisão técnica consciente — não apenas código que funciona, mas código que comunica."*
