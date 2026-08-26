@@ -27,21 +27,34 @@ Portfólio construído com progressão técnica deliberada: dos fundamentos de O
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **Linguagens:** Java 17, SQL, Python  
 **Frameworks:** Spring Boot 3, Spring Cloud Config, JPA/Hibernate, Spring Data JPA, JUnit 4/5, Mockito, Thymeleaf, Lombok  
 **Arquitetura:** Microsserviços, REST API, MVC, Generic DAO, SOLID, Clean Code, Design Patterns, Injeção de Dependência  
 **Bancos:** PostgreSQL, MySQL, MongoDB, H2  
-**DevOps:** Docker, Docker Compose, Maven, Git, GitHub, Linux  
+**DevOps:** Docker, Docker Compose, Maven, Git, GitHub, GitHub Actions (CI), Linux  
 
 ---
 
 ## 🚀 Projetos em Destaque
 
+### 🦺 [epi-warehouse-microservices](https://github.com/Renaneliziario/epi-warehouse-microservices)
+**Almoxarifado Industrial de EPI — Spring Boot 3.3 · Spring Cloud · PostgreSQL + H2 · Docker Compose**
+
+O projeto mais completo do portfólio. 5 microsserviços de domínio (identidade, categoria, catálogo/retirada de estoque, gestão de segurança industrial) com [frontend próprio em React](https://github.com/Renaneliziario/epi-warehouse-frontend) consumindo as APIs reais, e CI configurado nos dois repositórios.
+
+- Validação cross-service síncrona via `RestClient` (padrão `/exists`, 204/404), sem duplicar dado entre serviços
+- `servico-operacao` com PostgreSQL + Flyway, schema versionado e seed real de domínio; os demais em H2
+- Frontend React + TypeScript integrado end-to-end nos 4 domínios, com testes (Vitest + React Testing Library)
+- Docker Compose orquestrando os 5 serviços + Postgres; CI (GitHub Actions) validando build/lint/teste a cada push
+
+---
+
 ### ☁️ [Sales-Microservices](https://github.com/Renaneliziario/Sales-Microservices)
 **Ecossistema de Microsserviços de E-Commerce — Spring Boot 3.4 · Spring Cloud · Docker Compose**
 
-O projeto mais completo do portfólio. Arquitetura distribuída com 4 serviços independentes (Config Server, Cliente, Produto, Vendas), cada um com banco de dados PostgreSQL isolado.
+Arquitetura distribuída com 4 serviços independentes (Config Server, Cliente, Produto, Vendas), cada um com banco de dados PostgreSQL isolado.
 
 - Spring Cloud Config Server centralizando configurações dos 3 serviços dependentes
 - Fluxo completo de venda com baixa automática de estoque e validação de disponibilidade
