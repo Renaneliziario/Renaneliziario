@@ -48,8 +48,9 @@ O projeto mais completo do portfólio. 5 microsserviços de domínio (identidade
 
 - Validação cross-service síncrona via `RestClient` (padrão `/exists`, 204/404), sem duplicar dado entre serviços
 - `servico-operacao` com PostgreSQL + Flyway, schema versionado e seed real de domínio; os demais em H2
-- Frontend React + TypeScript integrado end-to-end nos 4 domínios, com testes (Vitest + React Testing Library) e **CI (GitHub Actions)** rodando typecheck, lint, testes e build a cada push
+- Frontend React + TypeScript integrado end-to-end nos 4 domínios, com testes (Vitest + React Testing Library)
 - Métricas expostas via Actuator/Prometheus; Docker Compose orquestrando os 5 serviços + Postgres
+- **CI (GitHub Actions) nos dois repositórios**: backend roda `mvn clean install` a cada push/PR; frontend roda typecheck, lint, testes e build
 
 ---
 
