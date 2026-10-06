@@ -19,11 +19,9 @@ Portfólio construído com progressão técnica deliberada: dos fundamentos de O
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
@@ -31,18 +29,29 @@ Portfólio construído com progressão técnica deliberada: dos fundamentos de O
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Linguagens:** Java 8/11/17, SQL, Python, TypeScript
-**Frameworks:** Spring Boot 3, Spring Cloud Config, OpenFeign, Flyway, React, Node.js, JPA/Hibernate, Spring Data JPA, JUnit 4/5, Mockito, Lombok
+**Frameworks:** Spring Boot 3, Spring Cloud Config, OpenFeign, Flyway, Node.js, JPA/Hibernate, Spring Data JPA, JUnit 4/5, Mockito, Lombok
 **Arquitetura:** Estruturas de Dados, Microsserviços, REST API, MVC, Generic DAO, SOLID, Clean Code, Design Patterns, Injeção de Dependência
-**Bancos:** PostgreSQL, MySQL, MongoDB, H2
+**Bancos:** PostgreSQL, H2
 **DevOps:** Docker, Docker Compose, Maven, Git, GitHub, Swagger/OpenAPI, Actuator/Prometheus, Linux
-**Noções (ainda sem prática consolidada):** Terraform, AWS, RabbitMQ, Angular
+**Noções (ainda sem prática consolidada):** Terraform, AWS, RabbitMQ, Angular, React, MySQL, MongoDB
 
 ---
 
 ## 🚀 Projetos em Destaque
 
+### 🥈 [Hackathon SouJunior: Landing Page do Apoia.se](https://github.com/SouJunior/hackathon-web-wizards)
+**2º lugar · Dev Front-end na squad Web Wizards · React 19 · TypeScript · Vite · styled-components · 09/2026**
+
+Landing page de captação de apoio da SouJunior, desenvolvida em equipe e publicada na [Vercel](https://hackathon-web-wizards.vercel.app/).
+
+- Carrossel de depoimentos com scroll-snap e vídeo carregado sob demanda via YouTube
+- Botão flutuante de apoio (desktop) e faixa fixa (mobile), com header responsivo e menu mobile
+- Fluxo de Git em equipe com branch por desenvolvedor, Pull Requests e Conventional Commits
+
+---
+
 ### 🦺 [epi-warehouse-microservices](https://github.com/Renaneliziario/epi-warehouse-microservices)
-**Almoxarifado Industrial de EPI — Spring Boot 3.3 · Spring Cloud · PostgreSQL + H2 · Docker Compose**
+**Almoxarifado Industrial de EPI · Spring Boot 3.3 · Spring Cloud · PostgreSQL + H2 · Docker Compose**
 
 O projeto mais completo do portfólio. 5 microsserviços de domínio (identidade, categoria, catálogo/retirada de estoque, gestão de segurança industrial) com [frontend próprio em React](https://github.com/Renaneliziario/epi-warehouse-frontend) consumindo as APIs reais.
 
@@ -55,7 +64,7 @@ O projeto mais completo do portfólio. 5 microsserviços de domínio (identidade
 ---
 
 ### ☁️ [Sales-Microservices](https://github.com/Renaneliziario/Sales-Microservices)
-**Ecossistema de Microsserviços de E-Commerce — Spring Boot 3.4 · Spring Cloud · Docker Compose**
+**Ecossistema de Microsserviços de E-Commerce · Spring Boot 3.4 · Spring Cloud · Docker Compose**
 
 Arquitetura distribuída com 4 serviços independentes (Config Server, Cliente, Produto, Vendas), cada um com banco de dados PostgreSQL isolado.
 
@@ -67,7 +76,7 @@ Arquitetura distribuída com 4 serviços independentes (Config Server, Cliente, 
 ---
 
 ### 🏆 [desafio-programador-duxus](https://github.com/Renaneliziario/desafio-programador-duxus)
-**Desafio Técnico Real — Spring Boot 3.2 · Thymeleaf · JUnit 5 · Docker**
+**Desafio Técnico Real · Spring Boot 3.2 · Thymeleaf · JUnit 5 · Docker**
 
 Aplicação web full-stack desenvolvida como desafio técnico. Demonstra capacidade de entrega em contexto real com cobertura de testes completa.
 
@@ -107,6 +116,6 @@ Aplicação web full-stack desenvolvida como desafio técnico. Demonstra capacid
 
 - **LinkedIn:** [linkedin.com/in/renaneliziario](https://www.linkedin.com/in/renaneliziario/)
 - **Email:** renanqueiroz92@gmail.com
-- **Localização:** São Paulo, SP — Brasil
+- **Localização:** Guarulhos, SP, Brasil
 
-> *"Cada projeto é uma decisão técnica consciente — não apenas código que funciona, mas código que comunica."*
+> *"Cada projeto é uma decisão técnica consciente · não apenas código que funciona, mas código que comunica."*
